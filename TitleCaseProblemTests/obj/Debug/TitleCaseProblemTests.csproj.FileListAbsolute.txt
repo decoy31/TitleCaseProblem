@@ -1,0 +1,4 @@
+C:\Users\TimVM\Documents\Visual Studio 2012\Projects\Pluralsight\Preparing For a Job Interview\TitleCaseProblem\TitleCaseProblemTests\bin\Debug\TitleCaseProblemTests.dll
+C:\Users\TimVM\Documents\Visual Studio 2012\Projects\Pluralsight\Preparing For a Job Interview\TitleCaseProblem\TitleCaseProblemTests\bin\Debug\TitleCaseProblemTests.pdb
+C:\Users\TimVM\Documents\Visual Studio 2012\Projects\Pluralsight\Preparing For a Job Interview\TitleCaseProblem\TitleCaseProblemTests\obj\Debug\TitleCaseProblemTests.dll
+C:\Users\TimVM\Documents\Visual Studio 2012\Projects\Pluralsight\Preparing For a Job Interview\TitleCaseProblem\TitleCaseProblemTests\obj\Debug\TitleCaseProblemTests.pdb
