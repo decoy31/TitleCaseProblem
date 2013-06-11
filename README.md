@@ -1,4 +1,4 @@
 TitleCaseProblem
 ================
 
-Shows a couple ways to title case a string.
+Shows a couple ways to title case a string in C#.
